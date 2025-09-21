@@ -1,0 +1,14 @@
+radix 1 1
+io i i
+vname a b
+tunit ns
+period 10
+trise 1
+tfall 1
+vih 1.8
+vil 0
+00
+01
+10
+11
+00
